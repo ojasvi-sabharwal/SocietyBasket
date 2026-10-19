@@ -1,0 +1,3 @@
+[functions.tinyfish-extract]
+verify_jwt = true
+entrypoint = "./functions/tinyfish-extract/index.ts"
