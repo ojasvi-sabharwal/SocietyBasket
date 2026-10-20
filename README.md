@@ -98,9 +98,9 @@ These figures are illustrative and do not represent actual supplier offers.
 5. AI-Powered Shopping Assistant :
 An AI shopping assistant can help families describe their grocery requirements in natural language.
 For example:
-1. "Help me prepare a grocery list for my family."
-2. "Suggest groceries within a ₹2,000 budget."
-3. "Which products can I include in the society's next bulk order?"
+"Help me prepare a grocery list for my family."
+"Suggest groceries within a ₹2,000 budget."
+"Which products can I include in the society's next bulk order?"
 
 The AI helps interpret these requests and organize them into useful shopping requirements.
 This feature can use an existing language model rather than requiring the development of a new AI model.
@@ -122,7 +122,7 @@ One of the main challenges in group buying is finding suitable suppliers and com
 Manually visiting different supplier websites and collecting product information can be time-consuming.
 TinyFish can help automate supported browser-based research workflows, allowing the application to collect relevant information from accessible supplier websites.
 
-**How TinyFish fits into SocietyBasket**
+**How TinyFish fits into SocietyBasket:**
 
 1. SocietyBasket generates a consolidated list of required products.
 2. TinyFish researches supported supplier websites.
